@@ -1,0 +1,12 @@
+
+
+git clone https://github.com/shuvopaul601/advportscanner.py.git
+
+cd advportscanner.py
+
+pip install termcolor
+
+python3 advportscanner.py
+
+Enjoy the tool ☺️☺️
+
