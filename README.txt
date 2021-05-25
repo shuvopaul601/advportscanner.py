@@ -15,7 +15,7 @@ cd advportscanner.py
 
 pip install termcolor
 
-python3 advportscanner.py
+python3 main.py
 
 Enjoy the tool ☺️☺️
 
